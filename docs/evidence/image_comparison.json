@@ -1,0 +1,16 @@
+{
+  "frames": 1071,
+  "mean_absolute_channel_error": 0.23540405799694755,
+  "psnr_db": 52.666035548528896,
+  "grayscale_ssim_mean": 0.9979826234005116,
+  "grayscale_ssim_min": 0.9965205192565918,
+  "gray_error_by_reference_frame_offset": {
+    "-2": 2.593066453933716,
+    "-1": 1.6160516738891602,
+    "0": 0.2341412454843521,
+    "1": 1.6018598079681396,
+    "2": 2.5924816131591797
+  },
+  "best_relative_frame_offset": 0,
+  "notes": "Every tenth frame SSIM; +/-2 relative offsets only, not absolute sensor latency certification; stochastic RT2 pixels need not be byte-identical."
+}

@@ -1,0 +1,26 @@
+{
+  "source_files_sha256": {
+    "async_video.py": "e46c7dfe8c300666390503d62aa486fad161c5b00543236d7f3d65d071b10d42",
+    "fast_runtime.py": "fb2470b16b5594b06a6c05c4a54d024085890c5d4a6d11f5431e9593512fdf92",
+    "instrumentation.py": "c8b9cd9bda163ccfc74a811691ca95feb13aa8ad2509ed4250a9c61a9b737d21",
+    "lean_runtime_adapter.py": "ce474b5f3f1fbb91f73036c08b99289f9d907675e9ccc0ba03c4b1d382d72a8b",
+    "physx_audit.py": "19023ae557322cbd4f2170c23ed448dfde6e6499d7133c5cb40f90d227aac3f3",
+    "pipeline_hook.py": "cdc8d3a955b8891d3c0b195a3d896af589d55ac120c35d8680bf3e1bef73f8d9",
+    "render_worker.py": "96045ff2dddba3bdbea0545b0519d2e6982e25c9716f7542f3a9cfecb751032b",
+    "replay_controller.py": "56645973a47f19f7e19b511ff648cc8cb22a11fbf69e7d6c9306bcce9a8181d9",
+    "replay_xr.py": "728851b7ea6a2b428be2fdddd55487c0b1faef127025c95038a23f155a685a9d",
+    "simplify.py": "32a47bce440ad1bc4c713b457c5ce06198ebed0c0ae98ea254302ec585103d3d",
+    "state_stream.py": "bcba1df110b0bea0b1811640657907aff4d335170db2b7ddfd004cba9253cb37",
+    "streamline.py": "6ff1d959fb42f4ce843e1c1e6318e1a77cd23f1c20d4055e0f8120c240a44ded",
+    "xr_capture.py": "65d5ac0569d0f8a5535eef80c06848c0ddb87bb1c9dbec5da5564a328a8ec1c5",
+    "xr_contact_watch.py": "27c5142b522613f2391e62717db8420f78df3fe46e147820e27ccd6dfb78341c",
+    "xr_setup.py": "a35491f2a81fc7daa3907cfc5e28f5ab66279204d69131fcb5f31e53c7dac040",
+    "test_stream_close.py": "a8609d3eefd13f8342f8b0b28db29bfddfa0865d9269cea14e356383af736029"
+  },
+  "changes": [
+    "Paths supplied by prepared runtime",
+    "Frame/state allocation based on token length",
+    "Official haptic module vendored with license",
+    "Original experiment files unchanged"
+  ]
+}

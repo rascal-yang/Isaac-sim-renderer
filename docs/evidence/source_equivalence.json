@@ -1,0 +1,24 @@
+{
+  "frames": 1071,
+  "duration_s": 21.42,
+  "video_full_decode_passed": true,
+  "resolution": [
+    640,
+    480
+  ],
+  "physical_steps": 4284,
+  "physics_steps_during_render": 0,
+  "camera_max_abs_error": 8.881784197001252e-16,
+  "state_max_abs_error": 2.1457672119140625e-06,
+  "reference_byte_identical": {
+    "full_physics_states.npy": true,
+    "frame_states.npy": true,
+    "camera_matrices.npy": true,
+    "contact_force_matrix_w.npy": true,
+    "net_contact_forces_w.npy": true,
+    "haptic_feedback.npz": true,
+    "measured_states.npz": true,
+    "decoder_io.npz": true,
+    "collision_forces.npz": true
+  }
+}
