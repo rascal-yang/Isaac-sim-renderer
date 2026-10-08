@@ -6,7 +6,7 @@
 
 ## 接收者快速开始
 
-推荐拿完整 `isaac-state-renderer_20261009.tar.gz` 和同名 `.sha256` 文件。**Git 仓库只保存代码；Git clone 本身没有模型、场景、贴图和示例数据。完整交付包包含这些资源。** 本次仅创建本地 Git 仓库，没有发布远端。
+**如果想要完整复现我的仿真执行**，推荐拿完整 `isaac-state-renderer_20261009.tar.gz` 和同名 `.sha256` 文件。**Git 仓库只保存代码；Git clone 本身没有模型、场景、贴图和示例数据。完整交付包包含这些资源。** 
 
 已验证的平台：Linux x86_64、Python 3.11.15、Isaac Sim 5.1.0、IsaacLab source commit `37ddf626871758333d6ed89cf64ad702aef127d0`（安装包 metadata 为 0.54.2）、PyTorch 2.7.0+cu128、RTX 4090、32 个逻辑 CPU。版本见 `environment-observed.json`。原环境 OpenCV 4.13 使用非标准 NumPy 1.26 组合；安装清单选择兼容 NumPy 1.x 的 OpenCV 4.11（仅用于图像比较等，Isaac 渲染参数不变）。首次安装环境需要联网下载 Isaac/PyTorch；资产与模型已收集，运行无需 GPT API。
 
